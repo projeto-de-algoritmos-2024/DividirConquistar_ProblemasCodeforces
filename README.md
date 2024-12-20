@@ -25,16 +25,16 @@ Este projeto consta com 4 desafios resolvidos do Codeforces, sendo eles:
         - A primeira metade (`cdbb`) é uma `b-good string`.
         - A primeira metade de `cdbb` (`cd`) é uma `c-good string`.
     - Determinar o número mínimo de mudanças necessárias para transformar a string `s` em uma `a-good string`.
-- **(Q3)**
-- **(Q4)**
+- **(Q3) - D. Masha and a Beautiful Tree: [link](https://codeforces.com/contest/1741/problem/D)** O problema pede para organizar as folhas de uma árvore binária completa em ordem crescente da esquerda para a direita. Masha pode inverter os filhos de qualquer nó interno da árvore. O objetivo é encontrar o número mínimo de inversões necessárias para alcançar essa organização ou indicar se é impossível.
+- **(Q4) - B. Equivalent Strings: [link](https://codeforces.com/contest/559/problem/B)** Verifique se duas strings de mesmo comprimento são equivalentes, podendo ser idênticas ou reorganizadas em metades equivalentes de forma recursiva. Retorne "YES" se forem equivalentes, caso contrário, "NO".
 
 ## Vídeos
 
 * **Solução Q1 e Q2:** [link](https://youtu.be/Q4cIWN53WJQ)
 
-* **Solução Q3:** [link]()
-
-* **Solução Q4:** [link]()
+* **Solução Q3:** [link](https://youtu.be/pcDF0yMNnxc)
+  
+* **Solução Q4:** [link](https://youtu.be/pcDF0yMNnxc?si=VwpCquslS61G01Yt&t=444)
 
 ## Instalação
 
